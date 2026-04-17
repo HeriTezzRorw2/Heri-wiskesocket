@@ -1,10 +1,16 @@
-# Proto Extract
+# 🔥 Heri-wiskesocket - Baileys Edition
 
-Derived initially from `whatseow`'s proto extract, this version generates a predictable diff friendly protobuf. It also does not rely on a hardcoded set of modules to look for but finds all proto modules on its own and extracts the proto from there.
+## 👤 AUTHOR
+- **Nama**: HERIKEYZENLOCKER
+- **Alias**: HERI / KEYZEN / LOCKER  
+- **Asal**: Banjaran Sudom, Padang Cermin, Pesawaran, Lampung
+- **Motto**: DARI BANJARAN SUDOM - DEKET KEBUN! 🌾
 
-Thanks to [wppconnect-team](https://github.com/wppconnect-team) for the script update to make it work with the latest version of whatsapp.
+## ⚡ FITUR
+- ✅ Pairing Code (tanpa QR)
+- ✅ Auto reconnect
+- ✅ Bisa update sendiri
 
-## Usage
-1. Install dependencies with `yarn` (or `npm install`)
-2. `yarn start`
-3. The script will update `../WAProto/WAProto.proto` (except if something is broken)
+## 📦 INSTALL
+```bash
+npm install github:HeriTezzRorw2/Heri-wiskesocket
